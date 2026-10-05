@@ -3,6 +3,14 @@
 > An AI-powered conversational smart home advisor built on Amazon Bedrock and AWS serverless infrastructure. Customers chat with an AI advisor named **Soji**, receive tailored smart home product recommendations, and automatically get a personalised Word document proposal — all without leaving the chat.
 
 ---
+## 🚀 Live Deployment
+
+| Resource | URL |
+|---|---|
+| **Live App** | https://main.d1chei03th8p9r.amplifyapp.com |
+| **API Endpoint** | https://88alcq0tz4.execute-api.us-east-1.amazonaws.com |
+| **AWS Region** | us-east-1 |
+| **AWS Account** | 047719615900 |
 
 ## Architecture
 
