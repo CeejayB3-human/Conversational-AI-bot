@@ -1,4 +1,4 @@
-# Smart Lagos Homes — AI Smart Home Advisor & Proposal Generator
+# Conversational AI Smart Home Advisor & Proposal Generator
 
 > An AI-powered conversational smart home advisor built on Amazon Bedrock and AWS serverless infrastructure. Customers chat with an AI advisor named **Soji**, receive tailored smart home product recommendations, and automatically get a personalised Word document proposal — all without leaving the chat.
 
