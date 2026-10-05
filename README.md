@@ -10,6 +10,8 @@
 | **Live App** | https://main.d1chei03th8p9r.amplifyapp.com |
 | **AWS Region** | us-east-1 |
 
+<img width="1919" height="879" alt="image" src="https://github.com/user-attachments/assets/6cff2586-08a2-413d-b5c4-8008da46ca2a" />
+
 
 ## Architecture
 
