@@ -8,9 +8,8 @@
 | Resource | URL |
 |---|---|
 | **Live App** | https://main.d1chei03th8p9r.amplifyapp.com |
-| **API Endpoint** | https://88alcq0tz4.execute-api.us-east-1.amazonaws.com |
 | **AWS Region** | us-east-1 |
-| **AWS Account** | 047719615900 |
+
 
 ## Architecture
 
